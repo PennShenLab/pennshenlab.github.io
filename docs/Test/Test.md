@@ -1,6 +1,10 @@
 ---
+layout: redirect
+redirect: https://pennshenlab.giothub.io/Test/test/
 title: "Test"
-nav_order: 2
 has_children: true
-permalink: /guides/
+has_toc: true
+nav_order: 2
 ---
+
+Add sample contents from Shu
