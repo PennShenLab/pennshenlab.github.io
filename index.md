@@ -1,8 +1,4 @@
----
-title: "Penn Shen Lab Docs"
-nav_order: 1
-description: "Documentation and resources for Penn Shen Lab."
----
+
 
 # Penn Shen Lab
 
