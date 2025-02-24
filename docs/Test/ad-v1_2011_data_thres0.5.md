@@ -3,6 +3,7 @@ title: "Data"
 parent: "Test"
 has_toc: true
 nav_order: 1
+layout: default
 ---
 
 
