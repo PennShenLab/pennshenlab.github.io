@@ -1,10 +1,8 @@
-
 ---
 layout: default
-title: Hardware
-parent: Test
+title: {sectitle}
 has_toc: true
-nav_order: 2
+nav_order: {nvodr}
 ---
 
 
