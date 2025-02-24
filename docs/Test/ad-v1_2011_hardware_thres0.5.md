@@ -1,10 +1,8 @@
 ---
-layout: redirect
-redirect: https://pennshenlab.giothub.io/Test/Hardware
 title: "Hardware"
 parent: "Test"
-nav_order: 2
 has_toc: true
+nav_order: 2
 ---
 
 
