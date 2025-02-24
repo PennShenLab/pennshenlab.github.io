@@ -44,7 +44,7 @@ just_the_docs:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+ exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
