@@ -21,8 +21,7 @@
 title: Penn Shen Lab
 email: Li.Shen@pennmedicine.upenn.edu
 description: Documentation for the Penn Shen Lab
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/PennShenLab" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pennshenlab.github.io"
 github_username:  PennShenLab
 
 # Build settings
@@ -52,4 +51,5 @@ plugins:
 #   - vendor/ruby/
 
 include:
-  - assets
+  - _pages
+  - docss
