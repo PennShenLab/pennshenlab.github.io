@@ -29,6 +29,13 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
+just_the_docs:
+  nav_title: "Penn Shen Lab Docs"
+  search_enabled: true
+  back_to_top: true
+  back_to_top_text: "Back to top"
+  footer_content: "© 2024 Penn Shen Lab"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -43,7 +50,7 @@ plugins:
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - about.markdown
+   - about.markdown
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
@@ -52,4 +59,4 @@ plugins:
 
 include:
   - _pages
-  - docss
+  - docs
