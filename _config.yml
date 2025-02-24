@@ -44,8 +44,12 @@ plugins:
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
+#   - about.markdown
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include:
+  - assets
