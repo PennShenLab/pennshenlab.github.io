@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Hardware"
 parent: "Test"
 has_toc: true

@@ -1,6 +1,4 @@
-
 ---
-layout: default
 title: "Data"
 parent: "Test"
 has_toc: true
