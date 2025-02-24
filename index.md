@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Home
-permalink: /home/
+title: Penn Shen Lab
 nav_order: 1
 ---
 
