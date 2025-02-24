@@ -1,8 +1,9 @@
 ---
 layout: default
-title: {sectitle}
+title: "Hardware"
+parent: "Test"
 has_toc: true
-nav_order: {nvodr}
+nav_order: 2
 ---
 
 
