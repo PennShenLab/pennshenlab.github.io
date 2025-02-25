@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Penn Shen Lab
 nav_order: 1
 ---
 
