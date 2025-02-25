@@ -1,6 +1,6 @@
 ---
 title: "Data"
-parent: "Test"
+parent: "A2Collective"
 has_toc: true
 nav_order: 1
 layout: default

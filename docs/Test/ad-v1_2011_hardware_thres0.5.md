@@ -1,6 +1,6 @@
 ---
 title: "Hardware"
-parent: "Test"
+parent: "A2Collective"
 has_toc: true
 nav_order: 2
 layout: default
