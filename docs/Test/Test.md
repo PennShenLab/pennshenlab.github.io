@@ -1,8 +1,8 @@
 ---
-title: "Test"
+title: "A2Collective"
 has_children: true
 has_toc: true
 nav_order: 2
 ---
 
-Add sample contents from Shu
+A2 Collective awardees
