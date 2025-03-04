@@ -1,8 +1,8 @@
 ---
-title: "A2Collective"
+title: "PennAITech"
 has_children: true
 has_toc: true
 nav_order: 2
 ---
 
-A2 Collective awardees
+PennAITech
