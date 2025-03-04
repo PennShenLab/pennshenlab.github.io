@@ -7,6 +7,6 @@ nav_order: 2
 
 PennAITech collection of resources identified by LLM
 
-{% include_relative 161_word_cloud.png %}
+{% include toc_heading_custom.html %}
 
 
