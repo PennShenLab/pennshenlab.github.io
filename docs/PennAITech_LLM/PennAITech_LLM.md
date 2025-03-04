@@ -7,4 +7,4 @@ nav_order: 2
 
 PennAITech collection of resources identified by LLM
 
-{% include_relative  lda4_imaging_genetics.html %}
+{% include_relative  docs/PennAITech_LLM/lda4_imaging_genetics.html %}
