@@ -9,4 +9,7 @@ PennAITech collection of resources identified by LLM
 
 {% include toc_heading_custom.html %}
 
+{% include lda4_imaging_genetics.html %}
+
+
 
