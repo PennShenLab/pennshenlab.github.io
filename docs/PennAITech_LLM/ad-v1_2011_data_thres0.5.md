@@ -1,6 +1,6 @@
 ---
 title: "Data"
-parent: "A2Collective"
+parent: "PennAITech LLM"
 has_toc: true
 nav_order: 1
 layout: default

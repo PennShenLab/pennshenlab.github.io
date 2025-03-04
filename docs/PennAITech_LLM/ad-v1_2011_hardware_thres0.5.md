@@ -1,6 +1,6 @@
 ---
 title: "Hardware"
-parent: "A2Collective"
+parent: "PennAITech LLM"
 has_toc: true
 nav_order: 2
 layout: default
