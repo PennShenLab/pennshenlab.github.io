@@ -6,3 +6,5 @@ nav_order: 2
 ---
 
 PennAITech
+
+{% include lda4_imaging_genetics.html %}
