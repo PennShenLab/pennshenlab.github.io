@@ -7,7 +7,7 @@ nav_order: 2
 
 PennAITech collection of resources identified by LLM
 
-{% include toc_heading_custom.html %}
+<img src="161_word_cloud.png" alt="">
 
 {% include lda4_imaging_genetics.html %}
 
