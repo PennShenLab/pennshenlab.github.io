@@ -25,9 +25,9 @@ url: "https://pennshenlab.github.io"
 github_username:  PennShenLab
 
 # Build settings
-remote_theme: just-the-docs/just-the-docs
+remote_theme: bencentra/centrarium
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 just_the_docs:
   nav_title: "Penn Shen Lab Docs"
