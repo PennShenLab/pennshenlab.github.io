@@ -1,22 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# ============================================================
+# Minimal clean Jekyll config for Centrarium theme
+# ============================================================
 
 title: Penn Shen Lab
 email: Li.Shen@pennmedicine.upenn.edu
@@ -24,40 +8,26 @@ description: Documentation for the Penn Shen Lab
 url: "https://pennshenlab.github.io"
 github_username:  PennShenLab
 
-# Build settings
+# Load Centrarium as a remote theme (GitHub-friendly)
 remote_theme: bencentra/centrarium
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
-just_the_docs:
-  nav_title: "Penn Shen Lab Docs"
-  search_enabled: true
-  back_to_top: true
-  back_to_top_text: "Back to top"
-  footer_content: "© 2024 Penn Shen Lab"
+markdown: kramdown
+highlighter: rouge
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# No posts yet—clean site
+collections:
+  posts:
+    output: true
+
 exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-  - about.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
   - README.md
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-include:
-  - _pages
-  - docs
+  - .gitignore
+  - .gitmodules
