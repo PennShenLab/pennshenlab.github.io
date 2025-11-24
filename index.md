@@ -13,6 +13,3 @@ Welcome to the documentation site for the Penn Shen Lab.
 
 Use the search bar to quickly find topics. You can also navigate using the left sidebar, where sections are grouped logically.
 
-## Getting Started
-
-This site is powered by [Just the Docs](https://just-the-docs.github.io/just-the-docs/).
