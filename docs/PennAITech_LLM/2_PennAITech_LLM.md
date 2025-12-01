@@ -1,9 +1,16 @@
 ---
 title: "PennAITech LLM"
 has_children: true
-has_toc: true
+has_toc: false
 nav_order: 3
 ---
+
+
+# PennAITech collection of resources identified by LLM
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 PennAITech collection of resources identified by LLM
 
