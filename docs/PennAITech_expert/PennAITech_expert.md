@@ -7,4 +7,4 @@ nav_order: 2
 
 PennAITech collection of resources identified by experts
 
-URL: https://resources.pennaitech.org/
+URL: (https://resources.pennaitech.org/)[https://resources.pennaitech.org/]
