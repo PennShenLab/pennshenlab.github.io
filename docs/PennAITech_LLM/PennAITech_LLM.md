@@ -8,8 +8,8 @@ nav_order: 3
 
 # PennAITech collection of resources identified by LLM
 {: .no_toc .text-delta }
-- [Software Methods](/docs/PennAITech_LLM/3.1_SoftwareMethods)
-- [Data](/docs/PennAITech_LLM/3.2_Data)
+- [Software Methods](/docs/PennAITech_LLM/SoftwareMethods)
+- [Data](/docs/PennAITech_LLM/Data)
 
 <img src="161_word_cloud.png" alt="">
 

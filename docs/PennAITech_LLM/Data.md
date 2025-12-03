@@ -1,0 +1,22 @@
+---
+title: "Data"
+parent: "PennAITech LLM"
+has_toc: false
+nav_order: 2
+layout: default
+---
+
+## **2. Data development for healthy aging or Alzheimer’s disease**
+Mentions the creation and public release of a genetic atlas and polygenic risk scores for Alzheimer’s disease and other chronic diseases.
+
+### **2.1 Multi-omics and molecular data resources**
+Databases and resources that collect, integrate, or annotate multi-omics, molecular, or genetic data relevant to aging or Alzheimer’s disease.     
+[Link](/docs/PennAITech_LLM/Data/2.1_Multi-omics)
+
+### **2.2 Functional annotation and variant resources**
+Resources focused on the annotation, curation, or extraction of functional genomic variants, regulatory elements, or biomedical text relevant to aging or Alzheimer’s disease.     
+[Link](/docs/PennAITech_LLM/Data/2.2_FunctionalAnnotation)
+
+### **2.3 Risk factor and epidemiological data resources**
+Databases or resources that collect, analyze, or provide data on risk factors, exposures, or clinical assessments relevant to aging or neurodegenerative diseases.     
+[Link](/docs/PennAITech_LLM/Data/2.3_RiskFactors)
