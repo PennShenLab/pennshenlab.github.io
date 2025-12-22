@@ -5,6 +5,9 @@ has_toc: false
 nav_order: 3
 ---
 
+# Methods
+{: .no_toc .text-delta }
+- [https://github.com/PennShenLab/pennaitech_website](https://github.com/PennShenLab/pennaitech_website)
 
 # PennAITech collection of resources identified by LLM
 {: .no_toc .text-delta }
